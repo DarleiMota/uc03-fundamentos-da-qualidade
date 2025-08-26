@@ -144,12 +144,6 @@ A qualidade e a produtividade não são apenas conceitos teóricos, mas **princ�
 
 👉 Em resumo: **qualidade + produtividade + pessoas = sucesso sustentável**.
 
----
-
-Claro! Vou montar para você um tópico de **Referências** adequado para esse conteúdo da UC03 – Fundamentos da Qualidade e Produtividade. Como é um tema acadêmico/técnico, utilizei fontes de livros, artigos e manuais clássicos:
-
----
-
 ## 📚 Referências
 
 * CAMPOS, Vicente Falconi. *TQC – Controle da Qualidade Total (no estilo japonês)*. 2. ed. Belo Horizonte: INDG, 1999.
