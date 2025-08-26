@@ -14,7 +14,7 @@ A qualidade é importante porque garante **satisfação do cliente**, **competit
 
 # 📑 Índice
 
-* [Ferramentas da Qualidade](#-ferramentas-da-qualidade)
+* [Ferramentas da Qualidade](#%EF%B8%8F-ferramentas-da-qualidade)
 * [Filosofia Lean](#-filosofia-lean)
 * [Trabalho em Equipe](#-trabalho-em-equipe)
 * [Conclusão](#-conclusão)
